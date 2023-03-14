@@ -1,4 +1,5 @@
 # <img src="/docs/img/grid.png" alt="img" width="30"/> The store's website
 
-Example of modest responsive layout using grid elements.
-Check [store-page](https://leosondi.github.io/store-page/)
+This is my first job. Used grid elements👌
+
+Let's check [store-page](https://leosondi.github.io/store-page/)
